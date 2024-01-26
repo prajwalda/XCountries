@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items:center;
+  gap:1rem;
+}
+
+.wrapper{
+  width:200px;
+  height:140px;
+  border: 1px solid grey;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  padding:10px;
+  border-radius: 10px;
+}
+.wrapper img{
+  width:70px;
+  
+}
